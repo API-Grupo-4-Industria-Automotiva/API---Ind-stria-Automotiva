@@ -53,10 +53,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como aprendizes de analista, mapearemos o ecossistema industrial de serviços de São José dos Campo-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais                                                    | 5          | 1      |
-| 1| Alta       |  Como aprendizes de analista, iniciaremos o levantamento das informações pertinentes aos processos de importação e exportação do setor automotivo do vale do paraiba.                                                                   | 8          | 1      |
-| 3    | Alta       |  Como aprendizes de analista, elaborar um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica.                                         | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 2| Alta       |  Como aprendizes de analista, iniciaremos o levantamento das informações pertinentes aos processos de importação e exportação do setor automotivo do vale do paraiba.                                                                   | 8          | 1      |
+| 3    | Alta       |  Como aprendizes de analista, estaremos coletando os dados e realizaremos pesquisas para elaborar as anotações técnicas necessárias e, em seguida, montararemos um material informativo  sobre o perfil industrial da nossa região.                                         | 5          | 2      |
+| 4 |      |                                                                                                                                                   | ...        | ...    |
+| 5  |      | Como aprendizes de analista, elaborar um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica     | 2          | 3      |
 
 
 
