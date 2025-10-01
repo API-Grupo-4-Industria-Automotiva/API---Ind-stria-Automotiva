@@ -1,5 +1,5 @@
 # Aprendizado por Projeto Integrado (API) 
-Mapeamento do Ecossistema Idustrial e de serviços de São Jopsé dos Campos-SP e vale do Paraíba, focado no setor automotivo.
+Mapeamento do Ecossistema Idustrial e de serviços de São José dos Campos-SP e Região , com foco  no setor automotivo.
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -28,7 +28,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+Este projeto tem como objetivo conectar o conhecimento fundamental do curso de Gestão de Produção Industrial com o mercado, visando contribuir para uma compreensão das características do setor produtivo local, oferecendo uma base prática para os estudos teóricos. 
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
@@ -43,7 +43,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Microsoft Excel
 * Slack
 * Python (Colab)
-* Mysql
+  
 
 
 
