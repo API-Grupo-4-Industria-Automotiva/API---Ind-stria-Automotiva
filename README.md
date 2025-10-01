@@ -1,6 +1,5 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+# Aprendizado por Projeto Integrado (API) 
+Mapeamento do Ecossistema Idustrial e de serviços de São Jopsé dos Campos-SP e vale do Paraíba, focado no setor automotivo.
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
