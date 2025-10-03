@@ -52,13 +52,10 @@ Este projeto tem como objetivo conectar o conhecimento fundamental do curso de G
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como CADI, quero  mapear o ecossistema industrial de serviços de São José dos Campo-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais                                                    |   -        | 1      |
-| 2| Alta       |  Como CADI, quero um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica.                                                                   | -         | 1      |
-| 3    | Alta       |  Como aprendizes de analista, estaremos coletando os dados e realizaremos pesquisas para elaborar as anotações técnicas necessárias e, em seguida, montararemos um material informativo  sobre o perfil industrial da nossa região.                                         | -         | 2      |
-| 4 |      |                                                                                                                                                   | ...        | ...    |
-| 5  |      | Como aprendizes de analista, elaborar um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica     | -         | 3      |
+| 2| Alta       |  Como CADI, quero que seja coletado  os dados, pesquisas para elaborar as relatórios técnicos e, em seguida, montagem de  um material informativo  sobre o perfil industrial da nossa região, utilizando dashboard analítico.                                                                    | -         | 1      |
+| 3    | Alta       |   Como CADI, quero um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica, utilizando dashboard analítico.                                       | -         | 2      |
 
-
-
+ 
 
 
   
