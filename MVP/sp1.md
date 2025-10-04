@@ -1,18 +1,24 @@
 # 📌 SPRINT 1 - Mapeamento do setor automotivo
 
 ## 🎯 Objetivo do MVP
-> Mapear o ecossistema Industrial de serviços de SAõ josé dos Campos-SPe região , identificandoi os principais setores, processos produtivos e desafios tecnológicos das empresas locais. :  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+> Mapear o ecossistema Industrial de serviços de São josé dos Campos-SP e região , identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais. :  
+- Qual problema resolve?
+- O presente trabalho vem da necessidade de identificar a competitividade do mercado atual e suas exigências para acompanhar as mudanças tecnológicas  
+- Qual hipótese será validada?
+-  O setor automotivo de São José dos Campos precisa passar por uma reestruturação produtiva 
+- Qual valor será entregue ao usuário final?
+-  O mapeamento vai apresentar que o setor automotivo não esta estagnado e sim passando por transformações devido a competitividade no mercado 
+ 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Funcionalidades principais incluídas
+- Análise e comparação de dados através de ferramentas digitais para validar a hipótese do grupo   
+- Limitações conhecidas
+- Dificuldade em identificar e filtrar os dados devido a alta quantidade de transações de materiais  
+- Escopo reduzido (somente o essencial para validar a ideia)
+- Dados de mercado, infraestrutura e competitividade indústrial  
 
 ---
 
