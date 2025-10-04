@@ -39,8 +39,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba.]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba.]                        | Em andamento|
+
 
 ---
 
