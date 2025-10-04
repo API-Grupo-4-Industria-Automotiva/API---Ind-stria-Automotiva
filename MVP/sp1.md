@@ -5,7 +5,7 @@
 - Qual problema resolve?
 - O presente trabalho vem da necessidade de identificar a competitividade do mercado atual e suas exigências para acompanhar as mudanças tecnológicas  
 - Qual hipótese será validada?
-  - O setor automotivo de São José dos Campos precisa passar por uma reestruturação produtiva 
+- O setor automotivo de São José dos Campos precisa passar por uma reestruturação produtiva
 - Qual valor será entregue ao usuário final?
 -  O mapeamento vai apresentar que o setor automotivo não esta estagnado e sim passando por transformações devido a competitividade no mercado 
  
@@ -23,31 +23,30 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **CADI:** Mapear o ecossistema industrial e de serviços de São José dos Campos e região
+    
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como [CADI], quero [mapear o ecossistema industrial de serviços de São José dos Campos-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais] para [criar uma base de informações].| Alta  | - |
+
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
+| 01     | [Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba.]                        | Concluído|
 | 02     | [Funcionalidade Z]                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário [vizualize informações através de dashboards e gráficos]  
+  
 
 ---
 
