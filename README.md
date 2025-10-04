@@ -52,7 +52,7 @@ Este projeto tem como objetivo conectar o conhecimento fundamental do curso de G
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como CADI, quero  mapear o ecossistema industrial de serviços de São José dos Campo-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais                                                    |   -        | 1      |
-| 2| Alta       |  Como CADI, quero que seja coletado  os dados, pesquisas para elaborar as relatórios técnicos e, em seguida, montagem de  um material informativo  sobre o perfil industrial da nossa região.                                                                    | -         | 2      |
+| 2| Alta       |  Como CADI, quero que seja coletado  os dados, pesquisas para elaborar os relatórios técnicos e, em seguida, montagem de  um material informativo  sobre o perfil industrial da nossa região.                                                                    | -         | 2      |
 | 3    | Alta       |   Como CADI, quero um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica, utilizando dashboard analítico.                                       | -         | 3     |
 
  
