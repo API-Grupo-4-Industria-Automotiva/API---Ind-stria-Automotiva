@@ -1,7 +1,7 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 SPRINT 1 - Mapeamento do setor automotivo
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+> Mapear o ecossistema Industrial de serviços de SAõ josé dos Campos-SPe região , identificandoi os principais setores, processos produtivos e desafios tecnológicos das empresas locais. :  
 - Qual problema resolve?  
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
