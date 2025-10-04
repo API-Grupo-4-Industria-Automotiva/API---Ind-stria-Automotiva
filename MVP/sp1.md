@@ -5,7 +5,7 @@
 - Qual problema resolve?
 - O presente trabalho vem da necessidade de identificar a competitividade do mercado atual e suas exigências para acompanhar as mudanças tecnológicas  
 - Qual hipótese será validada?
--  O setor automotivo de São José dos Campos precisa passar por uma reestruturação produtiva 
+  - O setor automotivo de São José dos Campos precisa passar por uma reestruturação produtiva 
 - Qual valor será entregue ao usuário final?
 -  O mapeamento vai apresentar que o setor automotivo não esta estagnado e sim passando por transformações devido a competitividade no mercado 
  
