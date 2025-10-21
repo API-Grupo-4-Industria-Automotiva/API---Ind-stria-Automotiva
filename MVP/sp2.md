@@ -1,8 +1,8 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 SPRINT 2 - Relatório Informativo
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:
-> desenvolver relatórios técnicos com a finalidade de criar um perfil indústrial da nossa região (SJC)  
+> desenvolver relatórios informativos com a finalidade de criar um perfil indústrial da nossa região de São José dos Campos-SP  
 - Qual problema resolve?
 - Fornecer análises de subsídios para planejamento econômico regional em relação à mobilidade urbana    
 - Qual hipótese será validada?
