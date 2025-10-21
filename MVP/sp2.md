@@ -1,10 +1,14 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Descrever de forma clara qual é o propósito do MVP:
+> desenvolver relatórios técnicos com a finalidade de criar um perfil indústrial da nossa região (SJC)  
+- Qual problema resolve?
+- Fornecer análises de subsídios para planejamento econômico regional em relação à mobilidade urbana    
+- Qual hipótese será validada?
+- Necessidade de reajuste de valores do setor automotivo   
+- Qual valor será entregue ao usuário final?
+-   
 
 ---
 
