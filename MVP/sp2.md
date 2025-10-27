@@ -46,9 +46,7 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- MVP colete dados relevantes sobre o setor industrial de São José dos Campos-SP, elabore um diagnóstico consolidado e gere um relatório informativo com análises descritivas claras, permitindo avaliar a necessidade de reajuste no setor automotivo e apoiar decisões estratégicas e econômicas dos usuários.
 
 ---
 
