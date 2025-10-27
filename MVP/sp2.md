@@ -41,7 +41,7 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     |Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba.                      | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | Coletar dados e realizar pesquisas para elaborar um diagnóstico completo e produzir um material informativo sobre o perfil industrial da região.                         | Em andamento |
 
 ---
 
