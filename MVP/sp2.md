@@ -8,7 +8,7 @@
 - Qual hipótese será validada?
 - Necessidade de reajuste de valores do setor automotivo   
 - Qual valor será entregue ao usuário final?
--   
+-  Relatórios e análises que apresentam o perfil industrial de São José dos Campos-SP, fornecendo dados confiáveis para apoiar decisões econômicas e estratégicas, especialmente no setor automotivo. 
 
 ---
 
