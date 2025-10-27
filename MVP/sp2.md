@@ -14,17 +14,17 @@
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- *Funcionalidades principais incluídas*:
+- **Funcionalidades principais incluídas**:
 - Realização de pesquisas e análises para elaboração de um diagnóstico regional e a produção de um relatório informativo e visualizações simples de gráficos. 
-- *Limitações conhecidas*:
+- **Limitações conhecidas**:
 - Dados limitados a fontes públicas e atualização manual das informações. 
-- *Escopo reduzido (somente o essencial para validar a ideia)*:
+- **Escopo reduzido (somente o essencial para validar a ideia)**:
 - Criação de um relatório informativo piloto sobre o perfil industrial e validação da utilidade e relevância das informações junto aos usuários  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
+- **CADI:** Coletar dados, realizar pesquisas para elaborar um diagnóstico e produzir um material informativo sobre o perfil industrial da região em função do setor Automotivo.
 
 
 ---
