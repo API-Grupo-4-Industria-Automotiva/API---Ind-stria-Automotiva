@@ -18,7 +18,8 @@
 - Realização de pesquisas e análises para elaboração de um diagnóstico regional e a produção de um relatório informativo e visualizações simples de gráficos. 
 - *Limitações conhecidas*:
 - Dados limitados a fontes públicas e atualização manual das informações. 
-- *Escopo reduzido (somente o essencial para validar a ideia)*  
+- *Escopo reduzido (somente o essencial para validar a ideia)*
+- Criação de um relatório informativo piloto sobre o perfil industrial e validação da utilidade e relevância das informações junto aos usuários  
 
 ---
 
