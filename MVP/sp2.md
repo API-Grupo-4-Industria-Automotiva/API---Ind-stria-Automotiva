@@ -3,11 +3,11 @@
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:
 > desenvolver relatórios informativos com a finalidade de criar um perfil indústrial da nossa região de São José dos Campos-SP  
-- Qual problema resolve?
+- **Qual problema resolve?**
 - Fornecer análises de subsídios para planejamento econômico regional em relação à mobilidade urbana    
-- Qual hipótese será validada?
+- **Qual hipótese será validada?**
 - Necessidade de reajuste de valores do setor automotivo   
-- Qual valor será entregue ao usuário final?
+- **Qual valor será entregue ao usuário final?**
 -  Relatórios e análises que apresentam o perfil industrial de São José dos Campos-SP, fornecendo dados confiáveis para apoiar decisões econômicas e estratégicas, especialmente no setor automotivo. 
 
 ---
