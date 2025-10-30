@@ -32,8 +32,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como CADI quero que seja coletado informações para montagem de um diagnóstico completo e um material informativo.       | Alta       | 5 pontos   |
+| US2 | Como CADI .         | Média      | 3 pontos   |
 
 ---
 
