@@ -33,7 +33,7 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como CADI quero que seja coletado informações para montagem de um diagnóstico completo e um material informativo.       | Alta       | 5 pontos   |
-| US2 | Como CADI .         | Média      | 3 pontos   |
+| US2 | Como CADI quero a atualização completa do MVP.         | Média      | 3 pontos   |
 
 ---
 
