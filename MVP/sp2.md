@@ -32,8 +32,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como CADI quero que seja coletado informações para montagem de um diagnóstico completo e um material informativo.       | Alta       | 5 pontos   |
-| US2 | Como CADI quero a atualização completa do MVP.         | Média      | 3 pontos   |
+| US1 | Como CADI quero que sejam coletados dados e realizadas pesquisas para identificar e catalogar as fontes de dados oficiais , afim de garantir a credibilidade e a abrangência da pesquisa    | Alta       | 5 pontos   |
+| US2 | Como CADI quero que seja revisado e validado a qualidade e consistência de todos os dados para que evite erros no diagnóstico final e garantir a precisão        | Média      | 3 pontos   |
+| US3 | Como CADI quero a elaboração do diagnóstico completo com foco na análise e na síntese das informações para gerar o documento principal, elaborando a matriz SWOT afim de sintetizar os principais achados e guiar as recomendações futuras    |
 
 ---
 
