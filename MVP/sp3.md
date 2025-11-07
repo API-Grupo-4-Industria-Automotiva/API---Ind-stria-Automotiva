@@ -13,9 +13,12 @@
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- **Funcionalidades principais incluídas**
+- O Portal de Consulta entrega inteligência estratégica através da Matriz de Conexão e Especialização da Cadeia Automotiva ,permitindo a visualização interativa .
+- **Limitações conhecidas**
+- Aa empresas industriais e de serviços B2B tendem a ser sigilosas sobre seus fornecedores e clientes 
+- **Escopo reduzido (somente o essencial para validar a ideia)**
+- Dados coletados e tratados diponível para ser analisado através do portal de consulta  (com Dashboard analítico), acomapanhado do relatório técnico que servirá como o pilar de credibilidade, metodologia e profundidade analítica de todo o trabalho.
 
 ---
 
