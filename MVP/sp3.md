@@ -23,7 +23,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **CADI:** 
+- **CADI:**  Quero que seja criado um Diagnóstico Estrutural Interativo do ecossitema de serviços especializados (B2B) que suportam o setor automotivo em São José dos Campos e região. O portal de consulta e o relatório técnico devem entregar valor ao fornecerem inteligência competitiva e suporte à decisão para a academia e stakeholders. 
 
 ---
 
