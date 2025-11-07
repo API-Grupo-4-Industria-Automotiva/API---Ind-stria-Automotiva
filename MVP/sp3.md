@@ -1,4 +1,4 @@
-# 📌 MVP - [Coletar e Apresentar os Dados Tradados]
+# 📌 MVP - Coletar e Apresentar os Dados Tradados
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
