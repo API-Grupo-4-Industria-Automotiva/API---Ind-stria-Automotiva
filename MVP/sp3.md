@@ -1,10 +1,13 @@
-# 📌 MVP - Coletar e Apresentar os Dados Tradados
+# 📌 MVP - Coletar e Apresentar os Dados Tradados Acompanhado de Relatorio Técnico
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> **Descrever de forma clara qual é o propósito do MVP**:  
+- **Qual problema resolve?**
+- Alocação Ineficiente de Recursos: Sem um mapa claro, o poder público e as instituições de fomento (SEBRAE parque tecnológico) têm dificuldade em direcionar investimentos, programas de capacitação e incentivos fiscais para os setores de serviços mais estratégicos ou emergente.
+- **Qual hipótese será validada?**
+- Sua hipótese deve refletir a natureza do ecossistema de São José dos Campos e região, que é altamente tecnológico e industrial. 
+- **Qual valor será entregue ao usuário final?**
+- O valor entregue é a Inteligência estratégica regional e o alinhamento de poítica de inovação
 
 ---
 
