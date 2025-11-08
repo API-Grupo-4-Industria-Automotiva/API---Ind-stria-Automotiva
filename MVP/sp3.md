@@ -31,7 +31,9 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como CADI, quero acessar o portal de mapeamento para visualizar informações sobre as empresas e serviços da região de São José dos Campos.         | Alta       | 5 pontos   |
-| US2 | Como CADI, quero ver um mapa interativo com a localização das empresas e instituições para entender a distribuição geográfica do ecossistema automotivo na região.       | Média      | 3 pontos   |
+| US2 | Como CADI, quero ver um mapa interativo com a localização das empresas e instituições para entender a distribuição geográfica do ecossistema automotivo na região. | Média      | 3 pontos   | 
+| US2 | Como CADI, quero visualizar progresso e indicadores do projeto.| Média      | 3 pontos   |
+| US2 | Como CADI, quero um portal rápido e acessível.
 
 ---
 
