@@ -30,8 +30,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como CADI, quero acessar o portal de mapeamento para visualizar informações sobre as empresas e serviços da região de São José dos Campos.         | Alta       | 5 pontos   |
+| US2 | Como CADI, quero ver um mapa interativo com a localização das empresas e instituições para entender a distribuição geográfica do ecossistema automotivo na região.       | Média      | 3 pontos   |
 
 ---
 
