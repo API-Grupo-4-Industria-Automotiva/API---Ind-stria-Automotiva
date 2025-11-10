@@ -2,13 +2,13 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:
-> desenvolver relatórios informativos com a finalidade de criar um perfil indústrial do Vale do Pairaíba
+> desenvolver relatórios informativos com a finalidade de criar um perfil indústrial de São José dos Campos e região
 - **Qual problema resolve?**
 - Fornecer análises para planejamento e superação dos desafios econômicos regional em relação à mobilidade urbana    
 - **Qual hipótese será validada?**
-- Necessidade de reajuste de valores do setor automotivo   
+- O potencial de crescimento , modernização e o aumento de competitividade global do Polo Automotivo de São José dos Campos e região através da integração tecnológica e de investimentos estratégicos  
 - **Qual valor será entregue ao usuário final?**
--  Relatórios e análises que apresentam o perfil industrial de São José dos Campos-SP, fornecendo dados confiáveis para apoiar decisões econômicas e estratégicas, especialmente no setor automotivo. 
+-  Relatórios e análises que apresentam o perfil industrial de São José dos Campos-SP, fornecendo dados confiáveis para apoiar decisões econômicas e estratégicas, especialmente no setor automotivo, para que possamos entender a posição atual do setor e quais caminhos estratégicos devem ser seguidos. 
 
 ---
 
