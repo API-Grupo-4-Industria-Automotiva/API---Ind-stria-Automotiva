@@ -32,10 +32,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como CADI quero que sejam coletados dados e realizadas pesquisas para identificar e catalogar as fontes de dados oficiais , afim de garantir a credibilidade e a abrangência da pesquisa    |        |    |
-| US2 | Como CADI quero que seja revisado e validado a qualidade e consistência de todos os dados para que evite erros no diagnóstico final e garantir a precisão        |       |    |
-| US3 | Como CADI quero a elaboração do diagnóstico completo com foco na análise e na síntese das informações para gerar o documento principal, elaborando a matriz SWOT afim de sintetizar os principais achados e guiar as recomendações futuras    |
-| US4 | Como CADI quero a produção do material informativo focado na comunicação e na apresentação dos achados de forma acessível para desenvolver um layout atrativo e alinhado à marca para o material informativo, garantindo que o material seja profissional e fácil de ler    |
+| US2 | Como CADI quero que sejam coletados dados e realizadas pesquisas para identificar e catalogar as fontes de dados oficiais , afim de garantir a credibilidade e a abrangência da pesquisa    |   Média    |  - |
+| US2 | Como CADI quero que seja revisado e validado a qualidade e consistência de todos os dados para que evite erros no diagnóstico final e garantir a precisão      |    Média   |  - |
+| US2 | Como CADI quero a elaboração do diagnóstico completo com foco na análise e na síntese das informações para gerar o documento principal, elaborando a matriz SWOT afim de sintetizar os principais achados e guiar as recomendações futuras| Média| - | 
+| US2 | Como CADI quero a produção do material informativo focado na comunicação e na apresentação dos achados de forma acessível para desenvolver um layout atrativo e alinhado à marca para o material informativo, garantindo que o material seja profissional e fácil de ler  | Média | - | 
 
 ---
 
