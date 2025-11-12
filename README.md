@@ -61,7 +61,7 @@ Este projeto tem como objetivo conectar o conhecimento fundamental do curso de G
 | 8 | Alta | Como CADI, quero ver um mapa interativo com a localização das empresas e instituições para entender a distribuição geográfica do ecossistema automotivo na região | - | 3 | 
 | 9 | Alta | Como CADI, quero acessar o portal de mapeamento para visualizar informações sobre as empresas e serviços da região de São José dos Campos | - | 3 |
 | 10| Alta | Como CADI, quero visualizar progresso e indicadores do projeto | - | 3 | 
-|  711 | Alta |   Como CADI, quero um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica, utilizando dashboard analítico acompanhado de um relatório técnico | -         | 3     |
+| 11 | Alta |   Como CADI, quero um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica, utilizando dashboard analítico acompanhado de um relatório técnico | -         | 3     |
 
  
 
