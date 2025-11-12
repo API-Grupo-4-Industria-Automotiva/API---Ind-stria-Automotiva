@@ -1,4 +1,4 @@
-# 📌 MVP - Coletar e Apresentar os Dados Tradados Acompanhado de Relatorio Técnico
+# 📌 MVP - Coletar e Apresentar em um Dashboard em Power BI os Dados Tradados Acompanhado de Relatorio Técnico
 
 ## 🎯 Objetivo do MVP
 > **Descrever de forma clara qual é o propósito do MVP**:  
