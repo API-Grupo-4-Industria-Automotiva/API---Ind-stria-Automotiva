@@ -32,7 +32,7 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como[CADI, quero mapear o ecossistema industrial de serviços de São José dos Campos-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais para criar uma base de informações.| Alta  | - |
-| US2 | Como CADI, quero visualizar dados comparativos sobre competitividade e infraestrutura, para avaliar meu posicionamento frente ao mercado regional | ALta | - | 
+| US1 | Como CADI, quero visualizar dados comparativos sobre competitividade e infraestrutura, para avaliar meu posicionamento frente ao mercado regional | Alta | - | 
 
 
 ---
@@ -40,7 +40,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba.                        | Em andamento|
+| 01     | Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba.                        | Comcluído |
 
 
 ---
