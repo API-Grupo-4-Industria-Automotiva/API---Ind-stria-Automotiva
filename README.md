@@ -58,6 +58,7 @@ Este projeto tem como objetivo conectar o conhecimento fundamental do curso de G
 |    | Média | Como CADI quero que sejam coletados dados e realizadas pesquisas para identificar e catalogar as fontes de dados oficiais, afim de garantir a credibilidade e a abrangência da pesquisa | - | 2 |
 |  4 |Média |  Como CADI quero a elaboração do diagnóstico completo com foco na análise e na síntese das informações para gerar o documento principal, elaborando a matriz SWOT afim de sintetizar os principais achados e guiar as recomendações futuras  |  -  | 2 |   -     |
 |  5 | Média | Como CADI, quero que seja coletado os dados, realizado pesquisas para elaboração de um diagnóstico completo e a produção de um material informativo  sobre o perfil industrial da nossa região | - |  2 |
+|  | Alta | Como CADI, quero ver um mapa interativo com a localização das empresas e instituições para entender a distribuição geográfica do ecossistema automotivo na região | - | 3 | 
 |  | Alta | Como CADI, quero acessar o portal de mapeamento para visualizar informações sobre as empresas e serviços da região de São José dos Campos | - | 3 |
 |  7 | Alta |   Como CADI, quero um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica, utilizando dashboard analítico acompanhado de um relatório técnico.  | -         | 3     |
 
