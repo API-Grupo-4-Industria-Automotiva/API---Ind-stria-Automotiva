@@ -30,10 +30,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como CADI, quero acessar o portal de mapeamento para visualizar informações sobre as empresas e serviços da região de São José dos Campos.         |        |    |
-| US2 | Como CADI, quero ver um mapa interativo com a localização das empresas e instituições para entender a distribuição geográfica do ecossistema automotivo na região. |       |    | 
-| US2 | Como CADI, quero visualizar progresso e indicadores do projeto.|       |   |
-| US2 | Como CADI, quero um portal rápido e acessível.
+| US3 | Como CADI, quero acessar o portal de mapeamento para visualizar informações sobre as empresas e serviços da região de São José dos Campos |   Alta     |  - |
+| US3 | Como CADI, quero ver um mapa interativo com a localização das empresas e instituições para entender a distribuição geográfica do ecossistema automotivo na região |   Alta    |  -  | 
+| US3 | Como CADI, quero visualizar progresso e indicadores do projeto|   Alta   |  - |
+| US3 | Como CADI, quero um portal rápido e acessível | Alta | - |
 
 ---
 
@@ -42,6 +42,7 @@
 |--------|----------------------------------------------|----------|
 | 01     | Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba                       | Concluído|
 | 02     | Coletar dados e realizar pesquisas para elaborar um diagnóstico completo e produzir um material informativo sobre o perfil industrial da região.                         | Concluído |
+| 03 | 
 
 ---
 
