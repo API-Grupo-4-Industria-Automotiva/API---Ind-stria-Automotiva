@@ -31,7 +31,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [CADI], quero [mapear o ecossistema industrial de serviços de São José dos Campos-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais] para [criar uma base de informações].| Alta  | - |
+| US1 | Como[CADI, quero mapear o ecossistema industrial de serviços de São José dos Campos-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais para criar uma base de informações.| Alta  | - |
+| US2 | Como CADI, quero visualizar dados comparativos sobre competitividade e infraestrutura, para avaliar meu posicionamento frente ao mercado regional | ALta | - | 
 
 
 ---
