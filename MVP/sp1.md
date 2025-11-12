@@ -33,7 +33,7 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como[CADI, quero mapear o ecossistema industrial de serviços de São José dos Campos-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das empresas locais para criar uma base de informações.| Alta  | - |
 | US1 | Como CADI, quero visualizar dados comparativos sobre competitividade e infraestrutura, para avaliar meu posicionamento frente ao mercado regional | Alta | - | 
-| US1 | - | Como CADI quero analisar os principais indicadores do setor automotivo da região, para identificar oportunidades de modernização e parceria tecnológica | Alta | - |  
+| US1 | Como CADI quero analisar os principais indicadores do setor automotivo da região, para identificar oportunidades de modernização e parceria tecnológica | Alta | - |  
 
 
 ---
@@ -47,7 +47,7 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [vizualize informações através de dashboards e gráficos]  
+- O MVP deve permitir que o usuário vizualize informações através de dashboards e gráficos  
   
 
 ---
