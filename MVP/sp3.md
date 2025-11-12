@@ -42,7 +42,7 @@
 |--------|----------------------------------------------|----------|
 | 01     | Informações sobre a Cadeia Produtiva Automotiva na região do Vale do Paraíba                       | Concluído|
 | 02     | Coletar dados e realizar pesquisas para elaborar um diagnóstico completo e produzir um material informativo sobre o perfil industrial da região.                         | Concluído |
-| 03 | 
+| 03 | Apresentar à comunidade acadêmica o setor e a cadeia produtiva automotiva da região do Vale do Paraíba, utilizando dashboard analítico acompanhado de um relatório técnico.
 
 ---
 
