@@ -54,7 +54,7 @@ Este projeto tem como objetivo conectar o conhecimento fundamental do curso de G
 |  1 | Alta  | Como CADI, quero  mapear o ecossistema industrial de serviços de São José dos Campo-SP e região, identificando os principais setores, processos produtivos e desafios tecnológicos das   empresas locais| - |  1 |
 |  2 | Alta | Como CADI, quero visualizar dados comparativos sobre competitividade e infraestrutura, para avaliar meu posicionamento frente ao mercado regional| - |  1 |
 |  3 | Alta|  Como CADI quero analisar os principais indicadores do setor automotivo da região, para identificar oportunidades de modernização e parceria tecnológica |  - | 1 | 
-|  4 |Média |   Como CADI, quero entender as demandas tecnológicas das empresas automotivas, para direcionar políticas de apoio à inovação industrial     |  -  | 2 |   -     |
+|  4 |Média |  Como CADI quero a elaboração do diagnóstico completo com foco na análise e na síntese das informações para gerar o documento principal, elaborando a matriz SWOT afim de sintetizar os principais achados e guiar as recomendações futuras  |  -  | 2 |   -     |
 |  5 | Média | Como CADI, quero que seja coletado os dados, realizado pesquisas para elaboração de um diagnóstico completo e a produção de um material informativo  sobre o perfil industrial da nossa região | - |  2 |  
 |  7 | Alta |   Como CADI, quero um portal de consulta com os dados coletados e tratados, apto para ser apresentado à comunidade acadêmica, utilizando dashboard analítico acompanhado de um relatório técnico.  | -         | 3     |
 
