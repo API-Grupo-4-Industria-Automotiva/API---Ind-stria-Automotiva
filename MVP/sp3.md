@@ -47,16 +47,21 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+- Dashboard interativo em Power BI concluído e funcional, exibindo dados do ecossistema automotivo e de serviços B2B da região.
+- Relatório técnico entregue com metodologia, análise e conclusões consistentes.
+- Dados coletados, tratados e integrados corretamente ao dashboard.
+ Interface do portal de consulta acessível, clara e com boa usabilidade.
+- Permite visualização geográfica e indicadores de competitividade.
+- MVP entrega inteligência estratégica útil para CADI e stakeholders.
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- 100% dos dados no dashboard provenientes de fontes verificadas.
+- ≥80% de feedback positivo sobre clareza, utilidade e navegação.
+- Dashboard acessado/testado por ≥10 usuários (acadêmicos ou parceiros).
+- Relatório técnico validado pelo CADI ou equipe orientadora.
+- Hipótese confirmada: ecossistema local mostra alto potencial tecnológico e integração entre setores.
+- Tempo médio de carregamento do portal ≤5 segundos.
 
 ---
 
