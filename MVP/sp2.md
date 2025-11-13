@@ -48,15 +48,19 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- MVP colete dados relevantes sobre o setor industrial de São José dos Campos-SP, elabore um diagnóstico consolidado e gere um relatório informativo com análises descritivas claras, permitindo avaliar a necessidade de reajuste no setor automotivo e apoiar decisões estratégicas e econômicas dos usuários.
-
+- Relatório informativo sobre o perfil industrial de São José dos Campos e região entregue.
+- Dados coletados de fontes oficiais e devidamente validados.
+- Diagnóstico inclui análise SWOT e síntese das principais informações.
+- Layout do material informativo é claro, profissional e de fácil leitura.
+- Usuário (CADI) compreende o panorama industrial e o potencial do setor automotivo.
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- 100% dos dados provenientes de fontes oficiais.
+- ≥80% de feedback positivo sobre clareza e utilidade do relatório.
+- Diagnóstico validado por especialistas ou usuários (CADI).
+- Entrega do relatório dentro do prazo definido da sprint.
+- Hipótese confirmada: evidências de potencial de crescimento e modernização do polo automotivo.
 ---
 
 ## 🚀 Próximos Passos
