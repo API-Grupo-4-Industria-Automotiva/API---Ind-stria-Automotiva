@@ -41,7 +41,7 @@ Este projeto tem como objetivo conectar o conhecimento fundamental do curso de G
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Monday.com
+* Planner
 * Python (Colab)
   
 
