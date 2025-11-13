@@ -64,7 +64,7 @@
 - ≥90% de dados válidos e atualizados.
 - Hipótese confirmada: setor automotivo em transformação.
 - Usuário encontra dados principais em até 2 minutos.
-- 
+
 ---
 
 ## 🚀 Próximos Passos
