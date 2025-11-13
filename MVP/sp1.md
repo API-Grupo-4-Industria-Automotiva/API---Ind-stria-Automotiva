@@ -47,16 +47,24 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário vizualize informações através de dashboards e gráficos  
+- Dashboard apresenta setores, processos e desafios tecnológicos da região.
+- Permite comparar indicadores de competitividade e infraestrutura.
+- Inclui análise do setor automotivo com dados atualizados.
+- Interface simples e intuitiva.
+- Dados organizados e confiáveis.
+- Evidencia a reestruturação produtiva do setor automotivo.
   
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- ≥10 usuários testaram o MVP.
+- ≥50% retornaram para usar novamente.
+- ≥80% de feedbacks positivos.
+- ≥90% de dados válidos e atualizados.
+- Hipótese confirmada: setor automotivo em transformação.
+- Usuário encontra dados principais em até 2 minutos.
+- 
 ---
 
 ## 🚀 Próximos Passos
