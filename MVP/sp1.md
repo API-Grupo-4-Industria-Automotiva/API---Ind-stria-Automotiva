@@ -75,6 +75,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+-Divisão de tarefas <img width="969" height="440" alt="image" src="https://github.com/user-attachments/assets/72947ad7-7bcb-4385-8ae5-03aada24c11d" />
