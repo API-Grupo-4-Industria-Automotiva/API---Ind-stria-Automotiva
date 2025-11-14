@@ -72,4 +72,5 @@
 
 ## 📂 Anexos / Evidências
 - <img width="794" height="361" alt="image" src="https://github.com/user-attachments/assets/a941a704-6f9d-427e-a516-b49536e9be2c" />
-- <img width="931" height="484" alt="image" src="https://github.com/user-attachments/assets/8c56c996-c67c-4002-b7c8-4b4f125e1b9b" />
+- <img width="969" height="440" alt="image" src="https://github.com/user-attachments/assets/6e418723-3c43-4c88-9014-c47bdd13d742" />
+
